@@ -1,2 +1,2 @@
-# grokking-algorithms
-using to submit the exercises found in grokking algoritms book
+# coding-projects
+using to submit any Javascript projects I have been working on.
